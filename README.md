@@ -19,4 +19,4 @@
 * 最終的排名分數是'kaggle_1.ipynb'所跑出來的結果
 
 
-![GITHUB](img/pic1.png)
+![image](img/pic1.png)
