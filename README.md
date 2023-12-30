@@ -12,4 +12,11 @@
 >> 
 > DM2023-Lab2-Homework.ipynb (作業內容)
 
-* 詳細的說明皆有寫在kaggle_1.ipynb、kaggle_2.ipynb、kaggle_3.ipynb、DM2023-Lab2-Homework.ipynb檔案內!!!
+
+
+* 詳細的說明皆有寫在'kaggle_1.ipynb'、'kaggle_2.ipynb'、'kaggle_3.ipynb'、'DM2023-Lab2-Homework.ipynb'檔案內!!!
+
+* 最終的排名分數是'kaggle_1.ipynb'所跑出來的結果
+
+
+![image](img/pic1.png)
