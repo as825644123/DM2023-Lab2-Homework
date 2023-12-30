@@ -1,5 +1,13 @@
 # DM2023-Lab2-Homework (Homework 2 for ISA5810)
 
+# Environment
+
+* Python
+
+* VScode
+
+# 檔案說明
+
 > kaggle (競賽內容)
 > 
 >> LLM_model ------- 存放LLM model
