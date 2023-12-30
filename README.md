@@ -2,7 +2,7 @@
 
 > kaggle (競賽內容)
 > 
->> LLM_model -------- 存放LLM model
+>> LLM_model ------- 存放LLM model
 >> 
 >> kaggle_1.ipynb --- 採用BOW分詞、向量化，並使用MLP model
 >> 
