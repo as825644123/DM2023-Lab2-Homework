@@ -11,3 +11,5 @@
 >> kaggle_3.ipynb --- 採用TF-IDF分詞、向量化，並使用MLP model
 >> 
 > DM2023-Lab2-Homework.ipynb (作業內容)
+
+* 詳細的說明皆有寫在kaggle_1.ipynb、kaggle_2.ipynb、kaggle_3.ipynb、DM2023-Lab2-Homework.ipynb檔案內!!!
